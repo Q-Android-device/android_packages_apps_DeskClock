@@ -18,7 +18,7 @@
 <resources>
 
     <!-- Google-ify -->
-    <color name="app_accent">#ff5195ea</color>
+    <color name="app_accent">#e16e36</color>
     <color name="main_statusbar_color">#ff2d3033</color>
     <color name="settings_statusbar_color">@color/default_background</color>
     <color name="digital_clock_text_color">@color/app_accent</color>
