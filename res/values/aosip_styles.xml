@@ -23,7 +23,7 @@
         <item name="tabIndicatorColor">@color/pager_tab_indicator_color</item>
         <item name="tabIndicator">@drawable/google_tab</item>
         <item name="tabIndicatorFullWidth">false</item>
-        <item name="tabTextAppearance">@style/TextAppearance.GoogleMaterial.Tab</item>
+        <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabTextColor">@color/pager_icon_selector</item>
         <item name="tabIconTint">@color/pager_icon_selector</item>
         <item name="tabRippleColor">@color/pager_tab_ripple_color</item>
