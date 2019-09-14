@@ -51,7 +51,7 @@
                 app:tabMode="fixed"
                 app:tabPaddingEnd="0dp"
                 app:tabPaddingStart="0dp"
-                style="@style/Widget.GoogleMaterial.TabLayout" />
+                style="@style/Widget.Design.TabLayout" />
 
         </androidx.appcompat.widget.Toolbar>
 
